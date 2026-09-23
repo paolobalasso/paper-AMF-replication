@@ -1,0 +1,4 @@
+# Paper B - pacchetto di replica
+# Verificato con Python 3.12.12, Windows 10 x64.
+numpy==2.4.3
+matplotlib==3.10.8
