@@ -1,4 +1,4 @@
-# Replication package - Paper B
+# Replication package - Paper AMF
 
 **Benchmark-Relative Objectives and the Learning Signal in Differentiable Portfolio Choice**
 Paolo Balasso, University of Padua, Padua, Italy - ORCID 0000-0002-1104-9366
